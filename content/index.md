@@ -7,7 +7,7 @@ featuredLinks:
     - /repositories/creating-and-managing-repositories
     - /github/writing-on-github/basic-writing-and-formatting-syntax
   popular:
-    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-wor-with-pull-requests/about-pull-requests
     - /authentication
     - /github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
     - /get-started/getting-started-with-git/managing-remote-repositories
